@@ -4,4 +4,7 @@ console.log(numero);
 
 console.log("vc e feio")
 
+
+console.log("nadaver irmao")
+
 console.log("aaaas")
